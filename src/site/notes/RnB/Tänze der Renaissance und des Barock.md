@@ -2,16 +2,6 @@
 {"dg-publish":true,"permalink":"/rn-b/taenze-der-renaissance-und-des-barock/","tags":["gardenEntry"],"dgShowLocalGraph":true}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-
-
 # Journal
 **[Veranstaltungen](https://calendar.google.com/calendar/u/1?cid=aGlzdG9yaXNjaGVydGFuei5sZWlwemlnQGdtYWlsLmNvbQ) | [[Tanzmeister\|Tanzmeister]] |  [[Quellen\|Quellen]]  | [[Tanzbeschreibungen\|Tanzbeschreibungen]] |**
 
