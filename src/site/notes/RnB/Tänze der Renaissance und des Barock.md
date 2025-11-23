@@ -3,11 +3,11 @@
 ---
 
 # Journal
-**[Veranstaltungen](https://calendar.google.com/calendar/u/1?cid=aGlzdG9yaXNjaGVydGFuei5sZWlwemlnQGdtYWlsLmNvbQ) | [[Tanzmeister\|Tanzmeister]] |  [[Quellen\|Quellen]]  | [[Tanzbeschreibungen\|Tanzbeschreibungen]] |**
+**[Veranstaltungen]| [[Tanzmeister\|Tanzmeister]] |  [[Quellen\|Quellen]]  | [[Tanzbeschreibungen\|Tanzbeschreibungen]] |**
 
 
 # Leipziger Tanzsammlung
-Diese Seite ist ein [Obsidian notebook](https://obsidian.md) , das mit dem  [digital-garden plugin](https://github.com/oleeskild/obsidian-digital-garden) angepasst wurde, um Material und Tanzbeschreibungen für Teilnehmer:innen meiner Kurse zu Tänzen der Renaissance und des Barock bereitzustellen. 
+Diese Seite ist ein Obsidian notebook , das mit dem  digital-garden plugin angepasst wurde, um Material und Tanzbeschreibungen für Teilnehmer:innen meiner Kurse zu Tänzen der Renaissance und des Barock bereitzustellen. 
 
 
 
